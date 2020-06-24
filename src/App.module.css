@@ -1,0 +1,14 @@
+body {
+  
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.logo {
+  max-width: 200px;
+}
